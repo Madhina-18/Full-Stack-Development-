@@ -1,3 +1,16 @@
-h2{
+h1{
     background-color: yellowgreen;
+    color: white;
+    font-size: 45px;
+    text-align: center;
+   
 }
+
+p{
+    text-decoration: line-through;
+    font-weight: 600; 
+}
+
+
+
+
